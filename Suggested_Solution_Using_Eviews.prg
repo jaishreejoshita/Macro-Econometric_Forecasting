@@ -1,7 +1,6 @@
 '''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''
-'  Online Macro Forecasting, IMF
-'  Final Assignement: Forecasting U.S. Savings Behavior After the Crisis
-'  Last Updated: 2015-03-02
+'  Macro-Econometric Forecasting by IMF
+'  Final Assignment: Forecasting U.S. Savings Behavior After the Crisis
 ''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''
 '  This program assumes that the working directory is the current folder where this program file is saved. 
 '  Please ensure that the base workfile "M1_Data.wf1" is open before running this program.
